@@ -121,7 +121,7 @@ class EmployeeForm(forms.ModelForm):
 </body>  
 </html>  
 ```
-
+![alt text](https://github.com/prabhakar2020/django_forms/blob/master/preview.PNG)
 > Update views as per the ModelForms on webapp/views.py
  
  ```python
